@@ -11,9 +11,7 @@ To identify key elements within a reference image and use prompt engineering tec
 Experiment:
 Learners must:
 
-Analyze the provided reference image.
-Reference Image:- 
-https://www.wechasethecolor.com/wp-content/uploads/2025/04/butterfly-coloring-pages.png
+Analyze the provided reference image: https://www.wechasethecolor.com/wp-content/uploads/2025/04/butterfly-coloring-pages.png
 
 https://images.template.net/292657/Product-Launch-Poster-Template-edit-online.jpg
 
@@ -60,3 +58,5 @@ Output:
 
 Result:
 Thus, the original image was successfully reproduced using prompt engineering techniques and AI image generation tools.
+
+https://drive.google.com/file/d/1kRxpf54J8jN3YWJ5zX4ofU8BhJ0Ob9Ek/view?usp=sharing
